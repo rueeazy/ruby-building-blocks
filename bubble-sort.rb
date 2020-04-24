@@ -1,4 +1,4 @@
-arr = [7, 9, 10, 76, 32, 109, 66, 4]
+arr = [4,3,78,2,0,2]
 
 def bubble_sort(arr)
     n = arr.length - 1
