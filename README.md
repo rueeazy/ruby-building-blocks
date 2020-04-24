@@ -1,6 +1,10 @@
 # ruby-building-blocks
 This directory contains a series of projects from The Odin Project Curriculum.
 
-The caesar cipher [https://www.theodinproject.com/courses/ruby-programming/lessons/caesar-cipher] 
+** The Caesar Cipher ** [https://www.theodinproject.com/courses/ruby-programming/lessons/caesar-cipher] 
 
 For this project I had to build a program that takes 2 inputs from the user, a string and a shifter and display the encoded solution as an output.
+
+** Substrings ** [https://www.theodinproject.com/courses/ruby-programming/lessons/sub-strings]
+
+For this project I built a program that takes a phrase from the user. I then compare this phrase the user gave me with words from my dictionary(array) and notated the amount of times a word from my dictionary appears inside the phrase given. I display the results in a hash.
