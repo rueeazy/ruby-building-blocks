@@ -8,3 +8,7 @@ For this project I had to build a program that takes 2 inputs from the user, a s
 ** Substrings ** [https://www.theodinproject.com/courses/ruby-programming/lessons/sub-strings]
 
 For this project I built a program that takes a phrase from the user. I then compare this phrase the user gave me with words from my dictionary(array) and notated the amount of times a word from my dictionary appears inside the phrase given. I display the results in a hash.
+
+** Stock Picker ** [https://www.theodinproject.com/courses/ruby-programming/lessons/stock-picker?ref=lnav]
+
+For this project I built a program that takes an array of prices (one for each day) and find the best day to buy and best day to sell based on overall profit. 
